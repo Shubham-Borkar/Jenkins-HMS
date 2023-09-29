@@ -1,0 +1,47 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+.frontend
+.frontend2
+.frontend2/node_modules
+.frontend2/src/components/Admin/DoctorAdd.js
+.frontend2/src/components/Admin/DoctorDetails.js
+.frontend2/src/components/Admin/index.js
+.frontend2/src/components/Admin/Launch.js
+.frontend2/src/components/Admin/Login.js
+.frontend2/src/components/Admin/Navbaaaar.js
+.frontend2/src/components/Admin/PastAppointments.js
+.frontend2/src/components/Admin/Resources copy.js
+.frontend2/src/components/Admin/StaffAdd.js
+.frontend2/src/components/Admin/StaffEdit.js
+.frontend2/src/components/Patient/Appointment.js
